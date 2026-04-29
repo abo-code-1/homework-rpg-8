@@ -16,4 +16,4 @@
 
 ## Branch 3 — `feature/runner-and-demo` (steps 9–10)
 - [x] **Step 9** — `TowerRunner` (executes floors in sequence, halts on wipe, builds `TowerRunResult`).
-- [ ] **Step 10** — Populate `Main.java` with 2 heroes / ≥4 floors / visible state transitions; verify compile + run.
+- [x] **Step 10** — Populate `Main.java` with 2 heroes / ≥4 floors / visible state transitions; verify compile + run.
