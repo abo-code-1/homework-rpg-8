@@ -6,7 +6,7 @@
 - [x] **Step 1** — Add `NormalState` (baseline) and extend `Hero.java` with a `HeroState` field, `getState`/`setState`, and turn lifecycle methods.
 - [x] **Step 2** — Add `StunnedState` (`canAct() == false`, self-decrements, transitions back to `NormalState`).
 - [x] **Step 3** — Add `PoisonedState` (self-transitioning, ticks passive damage, weakens outgoing).
-- [ ] **Step 4** — Add `BerserkState` (modifies both outgoing and incoming damage, triggers via low-HP threshold).
+- [x] **Step 4** — Add `BerserkState` (modifies both outgoing and incoming damage, triggers via low-HP threshold).
 
 ## Branch 2 — `feature/template-method` (steps 5–8)
 - [ ] **Step 5** — `CombatFloor` (monster fight, can apply states to heroes).
