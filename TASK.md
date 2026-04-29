@@ -4,7 +4,7 @@
 
 ## Branch 1 — `feature/state-pattern` (steps 1–4)
 - [x] **Step 1** — Add `NormalState` (baseline) and extend `Hero.java` with a `HeroState` field, `getState`/`setState`, and turn lifecycle methods.
-- [ ] **Step 2** — Add `StunnedState` (`canAct() == false`, self-decrements, transitions back to `NormalState`).
+- [x] **Step 2** — Add `StunnedState` (`canAct() == false`, self-decrements, transitions back to `NormalState`).
 - [ ] **Step 3** — Add `PoisonedState` (self-transitioning, ticks passive damage, weakens outgoing).
 - [ ] **Step 4** — Add `BerserkState` (modifies both outgoing and incoming damage, triggers via low-HP threshold).
 
