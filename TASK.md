@@ -12,7 +12,7 @@
 - [x] **Step 5** — `CombatFloor` (monster fight, can apply states to heroes).
 - [x] **Step 6** — `TrapFloor` (automatic damage, may stun).
 - [x] **Step 7** — `RestFloor` (overrides `shouldAwardLoot()` → `false`, heals party).
-- [ ] **Step 8** — `BossFloor` (overrides `announce()` hook, hard combat).
+- [x] **Step 8** — `BossFloor` (overrides `announce()` hook, hard combat).
 
 ## Branch 3 — `feature/runner-and-demo` (steps 9–10)
 - [ ] **Step 9** — `TowerRunner` (executes floors in sequence, halts on wipe, builds `TowerRunResult`).
