@@ -10,7 +10,7 @@
 
 ## Branch 2 — `feature/template-method` (steps 5–8)
 - [x] **Step 5** — `CombatFloor` (monster fight, can apply states to heroes).
-- [ ] **Step 6** — `TrapFloor` (automatic damage, may stun).
+- [x] **Step 6** — `TrapFloor` (automatic damage, may stun).
 - [ ] **Step 7** — `RestFloor` (overrides `shouldAwardLoot()` → `false`, heals party).
 - [ ] **Step 8** — `BossFloor` (overrides `announce()` hook, hard combat).
 
